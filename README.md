@@ -1,1 +1,1 @@
-# servidor
+Minecraft Servidor (free mode)
